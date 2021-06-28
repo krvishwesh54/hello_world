@@ -1,2 +1,2 @@
-Hello World! I am Laura Susanto.
-I know! :)
+Hello World! I am Liverpool FC Supporter. Y.N.W.A
+/bin/bash: q: command not found
